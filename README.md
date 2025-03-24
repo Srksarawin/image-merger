@@ -1,6 +1,6 @@
 # Image Merger
 
-The ***Image Merger*** is a **Merging tool** is used to merge/combine two images into one
+The ***Image Merger*** is a **Merging tool** used to merge/combine two images into one using **Python** and **Streamlit**
 
 ![Screenshot](samples/imaged.pmg)
 
