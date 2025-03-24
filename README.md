@@ -6,4 +6,4 @@ The ***Image Merger*** is a **Merging tool** used to merge/combine two images in
 
 # ***Sample Image***
 
-![Screenshot](samples/combined.pdf)
+![Screenshot](samples/combined.png)
